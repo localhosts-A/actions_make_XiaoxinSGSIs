@@ -1,7 +1,7 @@
 {
   "rom_url": "https://hugeota.d.miui.com/20.12.28/miui_VIOLET_20.12.28_d19cdcf440_10.0.zip",
   "rom_name": "miui_VIOLET_20.12.28_d19cdcf440_10.0.zip",
-  "pack_sgsi": "MIUI12.5_XiaoxinSGSIs_Pinkdoge.7z",
+  "pack_sgsi": "MIUI12_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
